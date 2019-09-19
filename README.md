@@ -1,2 +1,3 @@
-# initializra
-for review
+# This is a readme file
+
+Development stage
